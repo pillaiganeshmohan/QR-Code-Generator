@@ -1,1 +1,1 @@
-# QR-Code-Generator
+# If you liked it dont forget to ⭐ the repository
